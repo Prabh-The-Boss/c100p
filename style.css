@@ -1,0 +1,13 @@
+body{
+    background-color: cornsilk;
+}
+
+#heder{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+#fro{
+    font-weight: 800;
+}
